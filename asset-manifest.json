@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mock-medical-site/static/css/main.7b358fce.css",
-    "main.js": "/mock-medical-site/static/js/main.09d65bed.js",
-    "static/js/453.1715a581.chunk.js": "/mock-medical-site/static/js/453.1715a581.chunk.js",
-    "index.html": "/mock-medical-site/index.html",
-    "main.7b358fce.css.map": "/mock-medical-site/static/css/main.7b358fce.css.map",
-    "main.09d65bed.js.map": "/mock-medical-site/static/js/main.09d65bed.js.map",
-    "453.1715a581.chunk.js.map": "/mock-medical-site/static/js/453.1715a581.chunk.js.map"
+    "main.css": "/MediCare/static/css/main.7b358fce.css",
+    "main.js": "/MediCare/static/js/main.8a6e950f.js",
+    "static/js/453.1715a581.chunk.js": "/MediCare/static/js/453.1715a581.chunk.js",
+    "index.html": "/MediCare/index.html",
+    "main.7b358fce.css.map": "/MediCare/static/css/main.7b358fce.css.map",
+    "main.8a6e950f.js.map": "/MediCare/static/js/main.8a6e950f.js.map",
+    "453.1715a581.chunk.js.map": "/MediCare/static/js/453.1715a581.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b358fce.css",
-    "static/js/main.09d65bed.js"
+    "static/js/main.8a6e950f.js"
   ]
 }
