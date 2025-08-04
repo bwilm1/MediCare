@@ -1,7 +1,7 @@
 {
   "name": "mock-medical-site",
   "version": "0.1.0",
-  "homepage": "https://yourusername.github.io/mock-medical-site",
+  "homepage": "https://bwilm1.github.io/MediCare",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
