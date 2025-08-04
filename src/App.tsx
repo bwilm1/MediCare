@@ -12,7 +12,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/MediCare">
       <div className="App">
         <Header />
         <main>
