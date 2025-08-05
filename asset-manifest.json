@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MediCare/static/css/main.2ba1aa8d.css",
+    "main.css": "/MediCare/static/css/main.3dccb31f.css",
     "main.js": "/MediCare/static/js/main.40c4a43b.js",
     "static/js/453.1715a581.chunk.js": "/MediCare/static/js/453.1715a581.chunk.js",
     "index.html": "/MediCare/index.html",
-    "main.2ba1aa8d.css.map": "/MediCare/static/css/main.2ba1aa8d.css.map",
+    "main.3dccb31f.css.map": "/MediCare/static/css/main.3dccb31f.css.map",
     "main.40c4a43b.js.map": "/MediCare/static/js/main.40c4a43b.js.map",
     "453.1715a581.chunk.js.map": "/MediCare/static/js/453.1715a581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ba1aa8d.css",
+    "static/css/main.3dccb31f.css",
     "static/js/main.40c4a43b.js"
   ]
 }
